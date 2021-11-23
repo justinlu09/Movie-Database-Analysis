@@ -1,2 +1,2 @@
 # Movie-Database-Analysis
-practicing Python/Pandas/SQL/databases/reporting
+practicing Python/Pandas/SQL/databases/reporting (Power BI)
